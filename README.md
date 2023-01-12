@@ -3,7 +3,7 @@ Coleçao de dicas compartilhadas por brasileiro no exterior. Inicialmente, a par
 sugestoes e ideias de quem usa o canal do Slack https://brazil-tech-expats.slack.com/
 
 # Lista de cidades
-* [Berlin](Berlin.md)
+* [Berlin](Berlin.md) (veja também [Awesome Berlin](https://marlonbernardes.github.io/awesome-berlin/pt-br/))
 
 # A fazer
 * organizar dicas repetidas por cidade, país e tema
